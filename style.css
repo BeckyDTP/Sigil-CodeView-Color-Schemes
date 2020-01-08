@@ -1,3 +1,4 @@
 body {font-family: sans-serif;}
 a:link, a:visited {color: black; text-decoration:none;}
 a:hover {color: darkred;}
+.footnote {margin-top:2em; font-size: 0.8em; color: #333333;}
